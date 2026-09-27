@@ -1,0 +1,2 @@
+# love.lanos.dev
+love
